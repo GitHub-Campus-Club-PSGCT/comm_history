@@ -1,0 +1,6 @@
+[
+  {"timestamp": "2025-08-28T12:00:00Z", "from": "Darshan", "to": "Rizvi", "message": "Couldn't clean all logs, some traces left."},
+  {"timestamp": "2025-08-28T12:02:05Z", "from": "Rizvi", "to": "Darshan", "message": "Fake delivery confirmed - stand down."},
+  {"timestamp": "ERROR", "from": "Darshan", "to": "Rizvi", "message": "[CORRUPTED DATA]"},
+  {"timestamp": "2025-08-28T12:20:35Z", "from": "Rizvi", "to": "Darshan", "message": "Inform security if suspicious activity."}
+]
